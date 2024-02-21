@@ -1,0 +1,1 @@
+[{"name":"build/sysroot/usr/bin/casaos-message-bus","path":"dist/casaos-message-bus-amd64_linux_amd64_v1/build/sysroot/usr/bin/casaos-message-bus","goos":"linux","goarch":"amd64","goamd64":"v1","internal_type":4,"type":"Binary","extra":{"Binary":"casaos-message-bus","Ext":"","ID":"casaos-message-bus-amd64"}}]
